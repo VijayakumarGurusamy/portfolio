@@ -2,4 +2,4 @@
 MY CV
 ## 🌐 Portfolio
 
-[My Portfolio Website](https://https://github.com/VijayakumarGurusamy)
+[My Portfolio Website]https://vijayakumargurusamy.github.io/portfolio/
